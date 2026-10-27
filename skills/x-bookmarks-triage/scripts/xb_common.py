@@ -1,4 +1,4 @@
-"""Shared helpers for x-bookmarks-triage scripts. Python 3.8+, standard library only."""
+"""Shared helpers for x-bookmarks-triage scripts. Python 3.9+, standard library only."""
 import json
 import pathlib
 import re

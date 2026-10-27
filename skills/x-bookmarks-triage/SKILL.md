@@ -24,7 +24,7 @@ x.com/i/bookmarks ──collector.js──▶ export JSON ──ingest.py──�
    - `x-bookmarks.profile.md`, from `profile.example.md` (who they are, domains, active projects, trusted and noisy sources, language and writing rules).
    If either is missing, ask the user the few questions needed to fill them. Do not invent projects.
 2. Read `references/rubric.md`. It is the contract for every triage.
-3. All scripts are Python 3.8+ standard library. Run them from `scripts/` or with their full path, always with `--config`.
+3. All scripts are Python 3.9+ standard library. Run them from `scripts/` or with their full path, always with `--config`.
 
 ## Workflow
 
