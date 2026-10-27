@@ -1,0 +1,33 @@
+{
+  "vault_root": ".",
+  "raw_dir": "raw/x-bookmarks",
+  "exports_dir": "raw/x-bookmarks/_exports",
+  "analysis_dir": "raw/x-bookmarks/_triage",
+  "digest_dir": "outputs/x-bookmarks",
+  "health_file": null,
+  "log_file": "raw/x-bookmarks/_triage/ingest-log.jsonl",
+  "min_score_to_route": 2,
+  "wikilinks": true,
+  "destinations": {
+    "post-ideas": {
+      "path": "wiki/Post ideas.md",
+      "title": "Post ideas",
+      "description": "Angles for posts and op-eds, each with a dated fact, a source and what is left to verify."
+    },
+    "tools-to-try": {
+      "path": "wiki/Tools to try.md",
+      "title": "Tools to try",
+      "description": "Tools, repos and tips spotted but not yet tested. Perishable: review every 3 months."
+    },
+    "playbook": {
+      "path": "wiki/Playbook.md",
+      "title": "Playbook",
+      "description": "Working rules adopted after a test, plus reference reads."
+    },
+    "research": {
+      "path": "wiki/Research notes.md",
+      "title": "Research notes",
+      "description": "Durable references: papers, datasets, methods, market facts."
+    }
+  }
+}

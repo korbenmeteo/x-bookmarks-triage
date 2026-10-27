@@ -1,0 +1,11 @@
+# Personal data: never commit
+x-bookmarks.config.json
+x-bookmarks.profile.md
+x-bookmarks-export-*.json
+raw/
+vault/
+outputs/
+# Python
+__pycache__/
+*.pyc
+.DS_Store

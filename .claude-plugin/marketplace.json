@@ -1,0 +1,11 @@
+{
+  "name": "x-bookmarks-triage",
+  "owner": { "name": "Ruben Hallali" },
+  "plugins": [
+    {
+      "name": "x-bookmarks-triage",
+      "source": "./",
+      "description": "Turn your X (Twitter) bookmarks into a curated markdown knowledge base: collect, ingest, triage critically, route, digest."
+    }
+  ]
+}

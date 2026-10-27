@@ -1,0 +1,11 @@
+{
+ "exported_at": "2026-10-27T12:00:00.000Z",
+ "source": "x.com/i/bookmarks (web UI)",
+ "count": 4,
+ "items": [
+  {"id": "1000000000000000001", "url": "https://x.com/example_lab/status/1000000000000000001", "handle": "example_lab", "author": "Example Lab", "posted": "2026-10-20T08:00:00.000Z", "text": "New paper: we downscale a global forecast from 28 km to 5 km in one GPU hour. Code and data are open:\nhttps://\ngithub.com/example/\ndownscaler\n…", "show_more": true, "quote": null, "links": ["https://\ngithub.com/example/\ndownscaler\n…"], "card": "", "media": ["photo"], "article_hint": "", "order": 0, "folders": ["Research"]},
+  {"id": "1000000000000000002", "url": "https://x.com/example_hype/status/1000000000000000002", "handle": "example_hype", "author": "Hype Account", "posted": "2026-10-19T08:00:00.000Z", "text": "🚨 THIS IS A GOLDMINE. This wallet makes $2,000 a day. Copy it here 👇", "show_more": false, "quote": null, "links": [], "card": "", "media": [], "article_hint": "", "order": 1},
+  {"id": "1000000000000000003", "url": "https://x.com/example_writer/status/1000000000000000003", "handle": "example_writer", "author": "Example Writer", "posted": "2026-10-18T08:00:00.000Z", "text": "", "show_more": false, "quote": null, "links": [], "card": "", "media": [], "article_hint": "How our team reviews code written by agents | We stopped reading every line. Here is what we do instead.", "order": 2},
+  {"id": "1000000000000000004", "url": "https://x.com/example_obs/status/1000000000000000004", "handle": "example_obs", "author": "Example Observatory", "posted": "2026-10-17T08:00:00.000Z", "text": "Two years ago today: 180 mm in one hour at a single station, and half the nearby stations went dark at the peak.", "show_more": false, "quote": {"author": "Example Agency @example_agency", "text": "Final data for the storm of 29 October."}, "links": [], "card": "", "media": ["photo"], "article_hint": "", "order": 3}
+ ]
+}

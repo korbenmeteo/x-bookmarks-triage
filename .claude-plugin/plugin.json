@@ -1,0 +1,8 @@
+{
+  "name": "x-bookmarks-triage",
+  "version": "0.1.0",
+  "description": "Turn your X (Twitter) bookmarks into a curated markdown knowledge base: collect, ingest, triage critically, route, digest.",
+  "author": { "name": "Ruben Hallali", "url": "https://x.com/RubenHallali" },
+  "license": "MIT",
+  "keywords": ["x", "twitter", "bookmarks", "obsidian", "knowledge-base", "second-brain", "triage"]
+}
