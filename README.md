@@ -21,7 +21,7 @@ bookmarks in total. Seeing that was worth the exercise on its own.
 ## Requirements
 
 - Claude Code or Claude Cowork, with **Claude in Chrome** for the collection step.
-- Python 3.9+ (standard library only).
+- Python 3.10+ (standard library only).
 - A folder of markdown notes (any structure; an Obsidian vault is ideal).
 
 ## Install
